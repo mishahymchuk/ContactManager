@@ -12,6 +12,6 @@ echo "<!DOCTYPE html>
 <br><br><br><span style=\"font-size: 32px; color: #333; font-family: Verdana, Arial;\">Он работает ;-)</span>
 <br><img src=\"st.png\" style=\"margin: 40px 0\"><br><a href=\"http://open-server.ru/docs/\" style=\"font-size: 24px; color: #048acd; font-family: Arial;\">мішаня тестує</a></span><br><br><br></div>
 </center>
-</body>
+</body>ывыв
 </html>";
 ?>
